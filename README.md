@@ -16,8 +16,8 @@ After running the key and iv generator program, you will have to copy the key an
 
 You can replace the key and iv in the main script like this:
 
-`unsigned char key[] = {...}; // 32 bytes`
-`unsigned char iv[] = {...}; // 16 bytes`
+```unsigned char key[] = {...}; // 32 bytes```
+```unsigned char iv[] = {...}; // 16 bytes```
 
 with the key and iv from the output of the generator program, for example:
 
