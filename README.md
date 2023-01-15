@@ -1,4 +1,5 @@
-# GPTcryptor
+# GPTcryptor | UNUSABLE !
+
 
 To use this program, you will need to compile it using a C++ compiler.
 
